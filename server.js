@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var port = 8080;
 
-var cookieParser = require('cookie-parser')
+var cookieParser = require('cookie-parser');
 var session = require('express-session');
 var morgan = require('morgan');
 var mongoose = require('mongoose');
