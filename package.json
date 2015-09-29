@@ -9,14 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3",
-    "morgan": "^1.6.1",
+    "express": "~4.13.3",
+    "morgan": "~1.6.1",
     "cookie-parser": "latest",
     "express-session": "latest",
     "mongoose": "latest",
     "ejs": "latest",
     "body-parser": "latest"
-
-
   }
 }
